@@ -1,0 +1,2 @@
+﻿This data is cached
+This app does weather Forecasting, News, and Solar Energy reports.
